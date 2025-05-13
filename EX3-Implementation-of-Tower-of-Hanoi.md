@@ -16,8 +16,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by:  SANJAY S
-RegisterNumber: 212222230132
+Developed by:  Ashwath M
+RegisterNumber: 212223230023
 
 #include<stdio.h> 
 void TOH(int n,char x,char y,char z) 
